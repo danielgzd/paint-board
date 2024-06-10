@@ -52,7 +52,7 @@ Link: [https://songlh.top/paint-board/](https://songlh.top/paint-board/)
   - Layer settings are supported for all drawings, including Move Layer Up, Move Layer Down, Move to Top, and Move to Bottom.
   - All drawings support transparency configurations.
 + Drawing Board Configuration
-  - Drawing board support for configuring background color and transparency configurations.
+  - The drawing board supports background configuration, including colour, background image, and transparency.
   - The drawing board supports customized width and height configurations.
   - Supports painting caching, enabling caching will improve painting performance in the presence of large amounts of painted content, while disabling caching will improve canvas sharpness.
   - Added Guide Line drawing feature.
@@ -137,6 +137,9 @@ I'm glad you're interested in contributing to PAINT BOARD. If you find a bug and
 ## Document
 + After refactoring with Fabric.js
   - [Exploring the Canvas Series: The Art of Time Reversal in the Canvas](https://songlh.top/2024/01/10/Exploring-the-Canvas-Series-The-Art-of-Time-Reversal-in-the-Canvas/)
+  - [Exploring the Canvas Series: Creative Brushes Part 1](https://songlh.top/2024/04/14/Exploring-the-Canvas-Series-Creative-Brushes-Part-1/)
+  - [Exploring the Canvas Series: Creative Brushes Part 2](https://songlh.top/2024/04/15/Exploring-the-Canvas-Series-Creative-Brushes-Part-2/)
+  - [Exploring the Canvas Series: Creative Brushes Part 3](https://songlh.top/2024/04/16/Exploring-the-Canvas-Series-Creative-Brushes-Part-3/)
   - writing...
 + Before refactoring with Fabric.js
   - [Canvas Artistry：Mastering Selection, Dragging, and Scaling](https://songlh.top/2023/11/30/Canvas-Artistry1)
